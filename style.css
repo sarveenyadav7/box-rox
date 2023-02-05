@@ -6,32 +6,32 @@
 .outer{
 	width: 100%;
 	height: 5400px;
-	border: 2px solid red;
+	/*border: 2px solid red;*/
 
 }
 .outer1{
 	width: 100%;
 	height: 2000px;
-	border: 2px solid red;
+	/*border: 2px solid red;*/
 
 }
 .outer3{
 	width: 100%;
 	height: 800px;
-	border: 2px solid red;
+	/*border: 2px solid red;*/
 
 }
 .header{
 	width: 1100px;
 	height: 70px;
-	border: 1px solid blueviolet;
+	/*border: 1px solid blueviolet;*/
 	margin: 0 auto;
 }
 
 .menu{
 	width: 31%;
 	height: 69px;
-	border: 1px solid grey;
+	/*border: 1px solid grey;*/
 	float: left;
 }
 .active{
@@ -55,7 +55,7 @@ a{
 .logo1{
 	width: 40%;
 	height: 69px;
-	border: 1px solid grey;
+	/*border: 1px solid grey;*/
 	float: left;
 }
 .logo1 img{
@@ -68,7 +68,7 @@ a{
 .menu2{
 	width: 29%;
 	height: 69px;
-	border: 1px solid grey;
+	/*border: 1px solid grey;*/
 	float: left;
 	text-align: right;
 	padding: 23px 8px;
@@ -77,7 +77,7 @@ a{
 .banner{
 	width: 100%;
 	height: 800px;
-	border: 1px solid blueviolet;
+	/*border: 1px solid blueviolet;*/
 	background-image: url(images/banner.webp);
 	background-size: cover;
 	background-position: center;
@@ -87,7 +87,7 @@ a{
 .overwrite{
 	width: 100%;
 	height: 800px;
-	border: 1px solid darkred;
+	/*border: 1px solid darkred;*/
 	padding-top: 90px;
 	padding-left: 80px;
 }
@@ -111,14 +111,14 @@ a{
 .brands{
 	width: 1000px;
 	height: 440px;
-	border: 1px solid blue;
+	/*border: 1px solid blue;*/
 	margin: 0 auto;
 	margin-top: 50px;
 }
 .logo2{
 	width: 300px;
 	height: 80px;
-	border: 1px solid red;
+	/*border: 1px solid red;*/
 	margin: 0 auto;
 	font-size: 50px;
 	text-align: center;
@@ -127,14 +127,14 @@ a{
 .sign{
 	width: 100%;
 	height: 300px;
-	border: 1px solid grey;
+	/*border: 1px solid grey;*/
 	margin-top: 30px;
 
 }
 .sign1{
 	width: 25%;
 	height: 150px;
-	border: 1px solid greenyellow;
+	/*border: 1px solid greenyellow;*/
 	float: left;
 	padding: 20px;
 }
@@ -144,7 +144,7 @@ a{
 .sign2{
 	width: 25%;
 	height: 150px;
-	border: 1px solid greenyellow;
+	/*border: 1px solid greenyellow;*/
 	float: left;
 	padding: 20px;
 }
@@ -154,7 +154,7 @@ a{
 .sign3{
 	width: 25%;
 	height: 150px;
-	border: 1px solid greenyellow;
+	/*border: 1px solid greenyellow;*/
 	float: left;
 	padding: 20px;
 	padding-top: 40px;
@@ -165,7 +165,7 @@ a{
 .sign4{
 	width: 25%;
 	height: 150px;
-	border: 1px solid greenyellow;
+	/*border: 1px solid greenyellow;*/
 	float: left;
 	padding: 20px;
 }
@@ -175,7 +175,7 @@ a{
 .sign5{
 	width: 25%;
 	height: 150px;
-	border: 1px solid greenyellow;
+	/*border: 1px solid greenyellow;*/
 	float: left;
 	padding: 20px;
 }
@@ -185,7 +185,7 @@ a{
 .sign6{
 	width: 25%;
 	height: 150px;
-	border: 1px solid greenyellow;
+	/*border: 1px solid greenyellow;*/
 	float: left;
 	padding: 20px;
 }
@@ -195,7 +195,7 @@ a{
 .sign7{
 	width: 25%;
 	height: 150px;
-	border: 1px solid greenyellow;
+	/*border: 1px solid greenyellow;*/
 	float: left;
 	padding: 20px;
 	padding-top: 40px;
@@ -206,7 +206,7 @@ a{
 .sign8{
 	width: 25%;
 	height: 150px;
-	border: 1px solid greenyellow;
+	/*border: 1px solid greenyellow;*/
 	float: left;
 	padding: 20px;
 }
@@ -216,7 +216,7 @@ a{
 .work{
 	width: 100%;
 	height: 500px;
-	border: 1px solid darkred;
+	/*border: 1px solid darkred;*/
 	margin: 0 auto;
 	margin-top: 70px;
 	
@@ -224,7 +224,7 @@ a{
 .work1{
 	width: 400px;
 	height: 100px;
-	border: 1px solid black;
+	/*border: 1px solid black;*/
 	margin: 0 auto;
 	margin-top: 50px;
 }
@@ -236,7 +236,7 @@ a{
 .boxes{
 	width: 33.33%;
 	height: 400px;
-	border: 1px solid greenyellow;
+	/*border: 1px solid greenyellow;*/
 	float: left;
 	margin-top: 100px;
 }
@@ -248,7 +248,7 @@ a{
 .boxes1{
 	width: 33.33%;
 	height: 400px;
-	border: 1px solid greenyellow;
+	/*border: 1px solid greenyellow;*/
 	float: left;
 	margin-top: 100px;
 }
@@ -259,7 +259,7 @@ a{
 .boxes2{
 	width: 33.33%;
 	height: 400px;
-	border: 1px solid greenyellow;
+	/*border: 1px solid greenyellow;*/
 	float: left;
 	margin-top: 100px;
 }
@@ -270,13 +270,13 @@ a{
 .select{
 	width: 100%;
 	height: 1722px;
-	border: 1px solid seagreen;
+	/*border: 1px solid seagreen;*/
 	background-color: #f4efe0;
 }
 .select1{
 	width: 33.33%;
 	height: 180px;
-	border: 1px solid blue;
+	/*border: 1px solid blue;*/
 	clear: both;
 	float: left;
 	text-align: center;
@@ -296,7 +296,7 @@ a{
 .select2{
 	width: 33.33%;
 	height: 180px;
-	border: 1px solid blue;
+	/*border: 1px solid blue;*/
 	text-align: center;
 	padding: 10px;
 	float: left;
@@ -314,7 +314,7 @@ a{
 .select3{
 	width: 33.33%;
 	height: 180px;
-	border: 1px solid blue;
+	/*border: 1px solid blue;*/
 	text-align: center;
 	padding: 10px;
 	float: left;
@@ -339,14 +339,14 @@ a{
 .ourboxes{
 	width: 1100px;
 	height: 1200px;
-	border: 1px solid red;
+	/*border: 1px solid red;*/
 	margin: 0 auto;
 	margin-top: 50px;
 }
 .ourboxes1{
 	width: 250px;
 	height: 60px;
-	border: 1px solid black;
+	/*border: 1px solid black;*/
 	margin: 0 auto;
 	margin-top: 30px;
 	text-align: center;
@@ -355,7 +355,7 @@ a{
 .ourboxes-right{
 	width: 50%;
 	height: 430px;
-	border: 1px solid green;
+	/*border: 1px solid green;*/
 	float: left;
 	margin-top: 60px;
 }
@@ -376,7 +376,7 @@ a{
 .ourboxes-down{
 	width: 50%;
 	height: 430px;
-	border: 1px solid green;
+	/*border: 1px solid green;*/
 	float: left;
 }
 .ourboxes-down img{
@@ -396,14 +396,14 @@ a{
 .features{
 	width: 1100px;
 	height: 320px;
-	border: 1px solid black;
+	/*border: 1px solid black;*/
 	margin: 0 auto;
 	margin-top: 80px;
 }
 .features1{
 	width: 450px;
 	height: 100px;
-	border: 1px solid orange;
+	/*border: 1px solid orange;*/
 	margin: 0 auto;
 	text-align: center;
 	padding: 20px;
@@ -412,13 +412,13 @@ a{
 .features2{
 	width: 100%;
 	height: 175px;
-	border: 1px solid blue;
+	/*border: 1px solid blue;*/
 	margin-top: 40px;
 }
 .sign9{
 	width: 20%;
 	height: 150px;
-	border: 1px solid seagreen;
+	/*border: 1px solid seagreen;*/
 	float: left;
 	margin-top: 20px;
 }
@@ -429,7 +429,7 @@ a{
 .sign10{
 	width: 20%;
 	height: 150px;
-	border: 1px solid seagreen;
+	/*border: 1px solid seagreen;*/
 	float: left;
 	margin-top: 20px;
 }
@@ -440,7 +440,7 @@ a{
 .sign11{
 	width: 20%;
 	height: 150px;
-	border: 1px solid seagreen;
+	/*border: 1px solid seagreen;*/
 	float: left;
 	margin-top: 20px;
 }
@@ -451,7 +451,7 @@ a{
 .sign12{
 	width: 20%;
 	height: 150px;
-	border: 1px solid seagreen;
+	/*border: 1px solid seagreen;*/
 	float: left;
 	margin-top: 20px;
 }
@@ -462,7 +462,7 @@ a{
 .sign13{
 	width: 20%;
 	height: 150px;
-	border: 1px solid seagreen;
+	/*border: 1px solid seagreen;*/
 	float: left;
 	margin-top: 20px;
 }
@@ -473,13 +473,13 @@ a{
 .follow{
 	width: 100%;
 	height: 500px;
-	border: 1px solid purple;
+	/*border: 1px solid purple;*/
 	margin-top: 150px;
 }
 .follow1{
 	width: 500px;
 	height: 100px;
-	border: 1px solid greenyellow;
+	/*border: 1px solid greenyellow;*/
 	margin: 0 auto;
 	margin-top: 20px;
 }
@@ -491,7 +491,7 @@ a{
 .follow2{
 	width: 25%;
 	height: 315px;
-	border: 1px solid darkred;
+	/*border: 1px solid darkred;*/
 	float: left;
 	margin-top: 30px;
 }
@@ -502,14 +502,14 @@ a{
 .footer{
 	width: 100%;
 	height: 450px;
-	border: 1px solid blue;
+	/*border: 1px solid blue;*/
 	margin-top: 80px;
 	background-color: #fc8947;
 }
 .faq{
 	width: 25%;
 	height: 400px;
-	border: 1px solid green;
+	/*border: 1px solid green;*/
 	float: left;
 	margin-top: 20px;
 	padding: 30px;
@@ -532,7 +532,7 @@ a{
 .inbox{
 	width: 50%;
 	height: 400px;
-	border: 1px solid green;
+	/*border: 1px solid green;*/
 	float: left;
 	margin-top: 20px;
 	padding: 30px;
@@ -555,7 +555,7 @@ a{
 .contact{
 	width: 25%;
 	height: 400px;
-	border: 1px solid green;
+	/*border: 1px solid green;*/
 	float: left;
 	margin-top: 20px;
 	padding: 30px;
@@ -577,14 +577,14 @@ a{
 .insta{
 	width: 300px;
 	height: 50px;
-	border: 1px solid blue;
+	/*border: 1px solid blue;*/
 	margin: 0 auto;
 	margin-top: 50px;
 }
 .insta1{
 	width: 25%;
 	height: 49px;
-	border: 1px solid black;
+	/*border: 1px solid black;*/
 	float: left;
 }
 .insta1 img{
@@ -598,7 +598,7 @@ a{
 .shop{
 	width: 1150px;
 	height: 1200px;
-	border: 1px solid green;
+	/*border: 1px solid green;*/
 	margin: 0 auto;
 	margin-top: 80px;
 }
@@ -617,7 +617,7 @@ a{
 .product{
 	width: 50%;
 	height: 450px;
-	border: 1px solid darkred;
+	/*border: 1px solid darkred;*/
 	float: left;
 	margin-top: 30px;
 	padding: 20px;
@@ -632,7 +632,7 @@ a{
 .product1{
 	width: 50%;
 	height: 450px;
-	border: 1px solid darkred;
+	/*border: 1px solid darkred;*/
 	float: left;
 	margin-top: 30px;
 	padding: 20px;
@@ -647,7 +647,7 @@ a{
 .product2{
 	width: 50%;
 	height: 450px;
-	border: 1px solid darkred;
+	/*border: 1px solid darkred;*/
 	float: left;
 	padding: 20px;
 }
@@ -661,7 +661,7 @@ a{
 .product3{
 	width: 50%;
 	height: 450px;
-	border: 1px solid darkred;
+	/*border: 1px solid darkred;*/
 	float: left;
 	padding: 20px;
 }
@@ -674,7 +674,7 @@ a{
 .last-line{
 	width: 400px;
 	height: 30px;
-	border: 1px solid greenyellow;
+	/*border: 1px solid greenyellow;*/
 	margin: 0 auto;
 	text-align: center;
 	padding: 5px;
